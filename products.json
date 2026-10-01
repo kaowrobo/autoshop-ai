@@ -1,8 +1,62 @@
 [
-{"id":1,"name":"Domowy budżet","category":"excel","type":"Szablon Excel","icon":"▦","status":"Projekt demonstracyjny","description":"Planowanie przychodów, wydatków i oszczędności w jednym arkuszu.","details":"Arkusz do porządkowania domowych finansów. Trwa przygotowanie i testowanie wersji produktu."},
-{"id":2,"name":"Planer tygodniowy","category":"planery","type":"Planer","icon":"▤","status":"W przygotowaniu","description":"Przejrzysty plan zadań, nauki i codziennych obowiązków.","details":"Projekt planera do organizowania tygodnia. Ostateczny zakres funkcji zostanie ustalony po testach."},
-{"id":3,"name":"Kalkulator projektów","category":"tech","type":"Narzędzie techniczne","icon":"⌘","status":"W przygotowaniu","description":"Koncepcja arkusza pomagającego planować proste projekty techniczne.","details":"Planowane narzędzie do notowania elementów, kosztów i etapów projektu."},
-{"id":4,"name":"Lista zakupów PRO","category":"excel","type":"Szablon Excel","icon":"☷","status":"W przygotowaniu","description":"Organizacja list zakupów i kontrola planowanych wydatków.","details":"Koncepcja listy zakupów z podsumowaniem kosztów."},
-{"id":5,"name":"Planer nauki","category":"planery","type":"Planer","icon":"◫","status":"W przygotowaniu","description":"Harmonogram tematów, powtórek i terminów sprawdzianów.","details":"Projekt szablonu do samodzielnej organizacji nauki."},
-{"id":6,"name":"Rejestr części","category":"tech","type":"Narzędzie techniczne","icon":"⚙","status":"W przygotowaniu","description":"Katalog elementów elektronicznych i części do projektów.","details":"Koncepcja rejestru elementów z ilościami i miejscem przechowywania."}
+  {
+    "id": 1,
+    "name": "Domowy budżet",
+    "category": "excel",
+    "type": "Szablon Excel",
+    "icon": "▦",
+    "status": "Projekt demonstracyjny",
+    "description": "Planowanie przychodów, wydatków i oszczędności w jednym arkuszu.",
+    "details": "Arkusz do porządkowania domowych finansów. Trwa przygotowanie i testowanie wersji produktu."
+  },
+  {
+    "id": 2,
+    "name": "Planer tygodniowy",
+    "category": "planery",
+    "type": "Planer Excel",
+    "icon": "▤",
+    "status": "Gotowy do prezentacji",
+    "description": "Przejrzysty planer tygodniowy z celami, zadaniami, priorytetami, statusami i automatycznym podsumowaniem postępu.",
+    "details": "Wersja 1.0 gotowa do prezentacji w katalogu. Zawiera 3 cele tygodnia, 70 miejsc na zadania, priorytety, statusy, kategorie i automatyczne podsumowanie. Zakupy i płatności pozostają wyłączone."
+  },
+  {
+    "id": 3,
+    "name": "Kalkulator projektów",
+    "category": "tech",
+    "type": "Narzędzie techniczne",
+    "icon": "⌘",
+    "status": "W przygotowaniu",
+    "description": "Koncepcja arkusza pomagającego planować proste projekty techniczne.",
+    "details": "Planowane narzędzie do notowania elementów, kosztów i etapów projektu."
+  },
+  {
+    "id": 4,
+    "name": "Lista zakupów PRO",
+    "category": "excel",
+    "type": "Szablon Excel",
+    "icon": "☷",
+    "status": "W przygotowaniu",
+    "description": "Organizacja list zakupów i kontrola planowanych wydatków.",
+    "details": "Koncepcja listy zakupów z podsumowaniem kosztów."
+  },
+  {
+    "id": 5,
+    "name": "Planer nauki",
+    "category": "planery",
+    "type": "Planer",
+    "icon": "◫",
+    "status": "W przygotowaniu",
+    "description": "Harmonogram tematów, powtórek i terminów sprawdzianów.",
+    "details": "Projekt szablonu do samodzielnej organizacji nauki."
+  },
+  {
+    "id": 6,
+    "name": "Rejestr części",
+    "category": "tech",
+    "type": "Narzędzie techniczne",
+    "icon": "⚙",
+    "status": "W przygotowaniu",
+    "description": "Katalog elementów elektronicznych i części do projektów.",
+    "details": "Koncepcja rejestru elementów z ilościami i miejscem przechowywania."
+  }
 ]
